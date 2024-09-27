@@ -121,14 +121,6 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                                     navClass="site-nav-item"
                                 />
                             </div>
-                            <div className="site-nav-right">
-                                <Link
-                                    className="site-nav-button"
-                                    to="/about"
-                                >
-                                    About
-                                </Link>
-                            </div>
                         </nav>
                     </div>
                 </header>
@@ -154,12 +146,6 @@ const DefaultLayout = ({ data, children, bodyClass, isHome }) => {
                             >
                                 Ghost
                             </a>
-                        </div>
-                        <div className="site-foot-nav-right">
-                            <Navigation
-                                data={site.navigation}
-                                navClass="site-foot-nav-item"
-                            />
                         </div>
                     </div>
                 </footer>
