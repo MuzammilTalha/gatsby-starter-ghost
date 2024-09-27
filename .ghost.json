@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://muzammil-talha.ghost.io",
+    "contentApiKey": "24799c178cc25abd13c723452e"
   },
   "production": {
-    "apiUrl": "https://gatsby.ghost.io",
-    "contentApiKey": "9cc5c67c358edfdd81455149d0"
+    "apiUrl": "https://muzammil-talha.ghost.io",
+    "contentApiKey": "24799c178cc25abd13c723452e"
   }
 }
